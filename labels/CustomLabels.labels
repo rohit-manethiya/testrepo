@@ -13002,6 +13002,13 @@ For more details login to the Org and monitor the test execution under Setup/Dev
         <value>Org Credential of the org where the related objects exist.</value>
     </labels>
     <labels>
+        <fullName>Test_Label</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Test Label</shortDescription>
+        <value>Testing Label for Translation</value>
+    </labels>
+    <labels>
         <fullName>Test_Run_Error</fullName>
         <categories>Copado DX</categories>
         <language>en_US</language>
